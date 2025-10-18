@@ -1,0 +1,28 @@
+['es', 'fr', 'de', 'pt', 'it', 'nl', 'ru', 'zh', 'ar', 'ja', 'ko', 'id']
+['Spanish', 'French', 'German', 'Portuguese', 'Italian', 'Dutch', 'Russian', 'Chinese', 'Arabic', 'Japanese', 'Korean', 'Indonesian']
+Original: Catherine decides to make an overture of goodwill by offering up Margot in marriage to prominent Huguenot and King of Navarre, Henri de 
+Bourbon, which is supposed to cement the hard-fought Peace of Saint-Germain. At the same time, Catherine schemes to bring about the notorious St. 
+Bartholomew's Day Massacre of 1572 and assassinate many of the most wealthy and prominent Huguenots, who are in the largely-Catholic city of Paris
+to escort the Protestant prince to his wedding. The massacre begins four days after the wedding ceremony, and thousands of Protestants are 
+slaughtered. The marriage goes ahead, but Margot, who does not love Henri, begins a passionate affair with the soldier La Môle, also a Protestant 
+from a well-to-do family.
+Final:    Catherine decided to make an offer of friendship and begged Margot to marry Henri de Bourbon, a famous Huguenot and King of Navarre, to
+ strengthen the peace that had been so hard achieved in Saint-Germain. At the same time, Catherine instigated the infamous Massacre of St. 
+ Bartholomew in 1572, plotting to kill many of the richest and most important Huguenots who had come to the predominantly Catholic city of Paris 
+ to accompany the wedding of a Protestant prince. Four days after the wedding, the massacre began and thousands of Protestants were killed. The 
+ wedding takes place, but Margot does not love Henry and begins a romantic relationship with Private Larmore, also a Protestant from a family.
+
+['bem', 'haw', 'hmn', 'kri', 'mfe', 'mni-mtei', 'nus', 'tiv', 'yua', 'lus']
+['Bemba', 'Hawaiian', 'Hmong', 'Krio', 'Mauritian Creole', 'Meitei (Manipuri)', 'Nuer', 'Tiv', 'Yucatec Maya', 'Lushai (Mizo)']
+Original: Catherine decides to make an overture of goodwill by offering up Margot in marriage to prominent Huguenot and King of Navarre, Henri de Bourbon, which is supposed to cement the hard-fought Peace of Saint-Germain. At the same time, Catherine schemes to bring about the notorious St. Bartholomew's Day Massacre of 1572 and assassinate many of the most wealthy and prominent Huguenots, who are in the largely-Catholic city of Paris to escort the Protestant prince to his wedding. The massacre begins four days after the wedding ceremony, and thousands of Protestants are slaughtered. The marriage goes ahead, but Margot, who does not love Henri, begins a passionate affair with the soldier La Môle, also a Protestant from a well-to-do family.
+Final:    All the writings are interesting. There was a good idea of ​​the world at that time. The next morning, That's, with you, you'll talk about it.
+
+ Original: Catherine decides to make an overture of goodwill by offering up Margot in marriage to prominent Huguenot and King of Navarre, Henri de Bourbon, which is supposed to cement the hard-fought Peace of Saint-Germain. At the same time, Catherine schemes to bring about the notorious St. Bartholomew's Day Massacre of 1572 and assassinatehis wedding. The massacre begins four days after the wedding ceremony, and thousands of Protestants are slaughtered. The marriage goes ahead, but Margot, who does not love Henri, begins a passionate affair with the soldier La Môle, also a Protestant from a well-to-do family.
+Final:    Catherine decided to marry Nen and Caron, Boron, in the hope that it would be accepted four days later, thousands of people die. At the
+ next wedding, but it didn’t like Henry, he started looking for the Bolla army.
+
+Original: Catherine decides to make an overture of goodwill by offering up Margot in marriage to prominent Huguenot and King of Navarre, Henri de Bourbon, which is supposed to cement the hard-fought Peace of Saint-Germain. At the same time, Catherine schemes to bring about the notorious St. Bartholomew's Day Massacre of 1572 and assassinate many of the most wealthy and prominent Huguenots, who are in the largely-Catholic city of Paris to escort the Protestant prince to his wedding. The massacre begins four days after the wedding ceremony, and thousands of Protestants are slaughtered. The marriage goes ahead, but Margot, who does not love Henri, begins a passionate affair with the soldier La Môle, also a Protestant from a well-to-do family.
+Final:    1000. At the second time, the second, and you’ve been in a long time. 10000. When the second time, we were. At the second time, we’ve been for a long time.
+
+Original: Catherine decides to make an overture of goodwill by offering up Margot in marriage to prominent Huguenot and King of Navarre, Henri de Bourbon, which is supposed to cement the hard-fought Peace of Saint-Germain. At the same time, Catherine schemes to bring about the notorious St. Bartholomew's Day Massacre of 1572 and assassinate many of the most wealthy and prominent Huguenots, who are in the largely-Catholic city of Paris to escort the Protestant prince to his wedding. The massacre begins four days after the wedding ceremony, and thousands of Protestants are slaughtered. The marriage goes ahead, but Margot, who does not love Henri, begins a passionate affair with the soldier La Môle, also a Protestant from a well-to-do family.
+Final:    Katrin called Katrinn to be in Margoland and decided how many decisions he decided to study botbama. At the same time, the head of life’s head.  
