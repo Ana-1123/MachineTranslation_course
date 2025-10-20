@@ -26,3 +26,9 @@ Final:    1000. At the second time, the second, and you’ve been in a long time
 
 Original: Catherine decides to make an overture of goodwill by offering up Margot in marriage to prominent Huguenot and King of Navarre, Henri de Bourbon, which is supposed to cement the hard-fought Peace of Saint-Germain. At the same time, Catherine schemes to bring about the notorious St. Bartholomew's Day Massacre of 1572 and assassinate many of the most wealthy and prominent Huguenots, who are in the largely-Catholic city of Paris to escort the Protestant prince to his wedding. The massacre begins four days after the wedding ceremony, and thousands of Protestants are slaughtered. The marriage goes ahead, but Margot, who does not love Henri, begins a passionate affair with the soldier La Môle, also a Protestant from a well-to-do family.
 Final:    Katrin called Katrinn to be in Margoland and decided how many decisions he decided to study botbama. At the same time, the head of life’s head.  
+
+
+Conclusion: Languages with large corpora and frequent global use (like Spanish, French,
+German, Chinese, Arabic) produce accurate and coherent translations, preserving 
+both meaning and context. In contrast, low-resource languages with limited digital data and
+rare usage (like Bemba, Hawaiian, Hmong, Krio) return incoherent translations, with almost no meaning.
