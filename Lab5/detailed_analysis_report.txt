@@ -1,0 +1,63 @@
+
+ANALYSIS REPORT: Phrase Extraction and alignment symmetrization
+
+1. PHRASE EXTRACTION IMPLEMENTATION
+
+The phrase extractor follows the standard consistent phrase extraction algorithm:
+- For each possible English phrase span, find aligned Romanian words
+- Determine minimal Romanian span covering these alignments  
+- Apply consistency constraints:
+  * No English words inside align to Romanian words outside
+  * No Romanian words inside align to English words outside
+
+
+2. SYMMETRIZATION STRATEGY
+
+Instead of simple intersection/union, a multi-stage approach was used:
+
+Stage 1: Strong Intersection
+- Keep only points present in both alignment directions
+- High precision but often too sparse for good phrase coverage
+
+Stage 2: Neighbor Expansion
+- Add points adjacent to intersection points
+- Captures nearby reliable alignments that GIZA++ might have missed
+
+Stage 3: One-to-One Completion  
+- Add points that create clean 1:1 word mappings
+- Resolves cases where both directions suggest unique mappings
+
+Stage 4: Gap Filling
+- Add points that fill gaps between strong alignments
+- Creates more contiguous phrasal units
+
+3. KEY FINDINGS BY SENTENCE
+
+Mermaid Example:
+- ENG<-RO had sparse alignments with many NULL mappings and cases where one English word aligned to multiple Romanian words.
+  As a result, several linguistically implausible phrase pairs were extracted:
+- RO<-ENG provided better lexical coverage
+
+Cat Example:
+- ENG<-RO missed several functional word alignments
+- RO<-ENG captured more syntactic relationships
+- Symmetrization created more meaningful phrasal units
+
+Michael Example:
+- Different alignment patterns for verb phrases
+- ENG<-RO collapsed multiple Romanian words to single English word
+- RO<-ENG provided better distribution
+- Symmetrization balanced both approaches
+
+4. CHALLENGES AND SOLUTIONS
+
+Challenge 1: Sparse vs Dense Alignments
+- Solution: Used neighbor expansion to bridge gaps
+
+Challenge 2: NULL Alignment Proliferation
+- Solution: Used one-to-one completion to recover likely mappings
+
+5. CONCLUSION
+
+The enhanced symmetrization strategy successfully combines the strengths of both alignment directions while maintaining phrase consistency. The results show improvements in phrase coverage while preserving alignment quality.
+The approach demonstrates that careful, multi-stage symmetrization can substantially improve the utility of GIZA++ alignments for phrase-based machine translation.

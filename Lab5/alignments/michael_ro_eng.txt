@@ -1,0 +1,11 @@
+# Alignment: RO <- ENG
+# English: michael assumes that he will stay in the house
+# Romanian: mihai a dedus ca va ramane in casa
+1 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0
+0 0 0 1 0 0 0 0 0
+0 0 0 0 0 1 1 0 1
+0 0 0 0 0 0 0 0 0

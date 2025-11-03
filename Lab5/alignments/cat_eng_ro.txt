@@ -1,0 +1,14 @@
+# Alignment: ENG <- RO
+# English: the cat assumes it will go to the beach with other cats
+# Romanian: pisica a dedus ca va merge la mare cu alte pisici
+0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 1

@@ -1,0 +1,11 @@
+# Alignment: RO <- ENG
+# English: the mermaid sings majestically over the golden caves
+# Romanian: sirena canta foarte maiestos deasupra pesterilor de aur
+1 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0
+0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 1 0 1 0
+0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
